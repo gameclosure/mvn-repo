@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>lein-palpatine</groupId>
+  <artifactId>lein-palpatine</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130701203925</lastUpdated>
+  </versioning>
+</metadata>
